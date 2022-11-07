@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "creaturecraftmod:candidium"
+  },
+  "result": "creaturecraftmod:candidium_circle_pillar"
+}

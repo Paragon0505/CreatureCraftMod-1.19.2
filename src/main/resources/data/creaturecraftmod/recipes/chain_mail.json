@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "IN",
+    "NI"
+  ],
+  "result": {
+    "count": 4,
+    "item": "creaturecraftmod:chain_mail"
+  }
+}

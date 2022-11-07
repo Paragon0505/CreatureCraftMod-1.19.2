@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "creaturecraftmod:candidium",
+    "creaturecraftmod:candidium_circle_bricks",
+    "creaturecraftmod:candidium_circle_pillar",
+    "creaturecraftmod:candidium_middle_circle"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "item.creaturecraftmod.selesteel": "Selesteel",
+  "item.creaturecraftmod.tritanium": "Tritanium",
+  "item.creaturecraftmod.leather_sword": "Leather Sword",
+  "item.creaturecraftmod.magnium_ingot": "Magnium Ingot",
+  "item.creaturecraftmod.chain_mail": "Chain Mail",
+
+
+
+  "block.creaturecraftmod.magnium_ore": "Magnium Ore",
+  "block.creaturecraftmod.candidium": "Candidium",
+  "block.creaturecraftmod.candidium_circle_bricks": "Candidium Circle Bricks",
+  "block.creaturecraftmod.candidium_circle_pillar": "Candidium Circle Pillar",
+  "block.creaturecraftmod.candidium_middle_circle": "Candidium Middle Circle",
+
+  "itemGroup.creaturecraftmod.creaturecraft": "Creature Craft"
+}
